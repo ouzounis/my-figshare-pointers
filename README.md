@@ -1,6 +1,10 @@
 # figshare
 datasets shared on figshare
 
+# chlamydiales 2012
+## - [README](https://figshare.com/articles/dataset/Chlamydiales_README/13369586)
+## - [zip file](https://figshare.com/articles/dataset/Chlamydiales_zip/13369580)
+
 # [moonlighting nucleoporins 2014](https://figshare.com/articles/dataset/Functional_Genomics_Evidence_Unearths_New_Moonlighting_Roles_of_Outer_Ring_Coat_Nucleoporins/840452)
 
 # PathTrace 2017
