@@ -23,7 +23,8 @@ datasets shared on figshare
 # ••[all-greek-to-me 2020](https://figshare.com/articles/dataset/Hypothesis_analysis_and_synthesis_it_s_all_Greek_to_me_/5493133)
 
 # ••[Orf3a from M 2020](https://figshare.com/articles/dataset/A_recent_origin_of_Orf3a_from_M_protein_across_the_coronavirus_lineage_arising_by_sharp_divergence/13046111)
+ [DOI](https://doi.org/10.1016/j.csbj.2020.11.047)
 
-# ••[Orf8 from Orf7a 2020](https://figshare.com/articles/dataset/Atypical_divergence_of_SARS-CoV-2_Orf8_from_Orf7a_within_the_coronavirus_lineage_suggests_potential_stealthy_viral_strategies_in_immune_evasion/12678491)
+# ••[Orf8 from Orf7a 2020](https://figshare.com/articles/dataset/Atypical_divergence_of_SARS-CoV-2_Orf8_from_Orf7a_within_the_coronavirus_lineage_suggests_potential_stealthy_viral_strategies_in_immune_evasion/12678491) [DOI](https://doi.org/10.1128/mbio.03014-20)
 
-# ••[SBP1 evolution 2023](https://figshare.com/articles/dataset/Data_S_Evolutionary_Aspects_of_Selenium_Binding_Protein_1/22188193)
+# ••[SBP1 evolution 2023](https://figshare.com/articles/dataset/Data_S_Evolutionary_Aspects_of_Selenium_Binding_Protein_1/22188193) [DOI](https://doi.org/10.1007/s00239-023-10105-4)
