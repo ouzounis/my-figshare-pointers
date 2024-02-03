@@ -33,7 +33,7 @@ datasets shared on figshare
  [DOI](https://doi.org/10.1016/j.csbj.2020.11.047)
 
 # ••[SARS-CoV-2: Orf8 from Orf7a /2020](https://figshare.com/articles/dataset/Atypical_divergence_of_SARS-CoV-2_Orf8_from_Orf7a_within_the_coronavirus_lineage_suggests_potential_stealthy_viral_strategies_in_immune_evasion/12678491)
-## - [see also](https://github.com/ryneches/CoronaARG)
+## - [see also: CoronaARG](https://github.com/ryneches/CoronaARG)
 [DOI](https://doi.org/10.1128/mbio.03014-20)
 
 # ••[SBP1 evolution /2023](https://figshare.com/articles/dataset/Data_S_Evolutionary_Aspects_of_Selenium_Binding_Protein_1/22188193)
