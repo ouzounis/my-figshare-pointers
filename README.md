@@ -23,7 +23,7 @@ datasets shared on figshare
 ## - [file collection](https://figshare.com/articles/journal_contribution/Vertebrate_Ribosomal_Proteins_file_collection/12607853)
 [DOI](https://doi.org/10.1093/nargab/lqaa088)
 
-# ••[ancestral coatomers /2020](https://figshare.com/articles/dataset/Sequence_evidence_for_common_ancestry_of_eukaryotic_endomembrane_coatomers/1593170)
+# ••[ancestral coatomers /2016](https://figshare.com/articles/dataset/Sequence_evidence_for_common_ancestry_of_eukaryotic_endomembrane_coatomers/1593170)
 [DOI](https://doi.org/10.1038/srep22311)
 
 # ••[all-greek-to-me /2020](https://figshare.com/articles/dataset/Hypothesis_analysis_and_synthesis_it_s_all_Greek_to_me_/5493133)
