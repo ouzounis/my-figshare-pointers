@@ -9,6 +9,12 @@ datasets shared on figshare
 # ••[moonlighting nucleoporins /2014](https://figshare.com/articles/dataset/Functional_Genomics_Evidence_Unearths_New_Moonlighting_Roles_of_Outer_Ring_Coat_Nucleoporins/840452)
 [DOI](https://doi.org/10.1038/srep04655)
 
+# ••[ancestral coatomers /2016](https://figshare.com/articles/dataset/Sequence_evidence_for_common_ancestry_of_eukaryotic_endomembrane_coatomers/1593170)
+[DOI](https://doi.org/10.1038/srep22311)
+
+# ••[all-greek-to-me /2019](https://figshare.com/articles/dataset/Hypothesis_analysis_and_synthesis_it_s_all_Greek_to_me_/5493133)
+[DOI](https://doi.org/10.7554/elife.43514)
+
 # ••PathTrace /2020
 ## - [Query](https://figshare.com/articles/dataset/PathTrace_Demo_Query_/5426710)
 ## - [Target](https://figshare.com/articles/dataset/PathTrace_Demo_Target_/5422852)
@@ -23,16 +29,10 @@ datasets shared on figshare
 ## - [file collection](https://figshare.com/articles/journal_contribution/Vertebrate_Ribosomal_Proteins_file_collection/12607853)
 [DOI](https://doi.org/10.1093/nargab/lqaa088)
 
-# ••[ancestral coatomers /2016](https://figshare.com/articles/dataset/Sequence_evidence_for_common_ancestry_of_eukaryotic_endomembrane_coatomers/1593170)
-[DOI](https://doi.org/10.1038/srep22311)
-
-# ••[all-greek-to-me /2020](https://figshare.com/articles/dataset/Hypothesis_analysis_and_synthesis_it_s_all_Greek_to_me_/5493133)
-[DOI](https://doi.org/10.7554/elife.43514)
-
 # ••[SARS-CoV-2: Orf3a from M /2020](https://figshare.com/articles/dataset/A_recent_origin_of_Orf3a_from_M_protein_across_the_coronavirus_lineage_arising_by_sharp_divergence/13046111)
  [DOI](https://doi.org/10.1016/j.csbj.2020.11.047)
 
-# ••[SARS-CoV-2: Orf8 from Orf7a /2020](https://figshare.com/articles/dataset/Atypical_divergence_of_SARS-CoV-2_Orf8_from_Orf7a_within_the_coronavirus_lineage_suggests_potential_stealthy_viral_strategies_in_immune_evasion/12678491)
+# ••[SARS-CoV-2: Orf8 from Orf7a /2021](https://figshare.com/articles/dataset/Atypical_divergence_of_SARS-CoV-2_Orf8_from_Orf7a_within_the_coronavirus_lineage_suggests_potential_stealthy_viral_strategies_in_immune_evasion/12678491)
 ## - [see also: CoronaARG](https://github.com/ryneches/CoronaARG)
 [DOI](https://doi.org/10.1128/mbio.03014-20)
 
