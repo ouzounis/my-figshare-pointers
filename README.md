@@ -9,7 +9,7 @@ datasets shared on figshare
 # ••[moonlighting nucleoporins /2014](https://figshare.com/articles/dataset/Functional_Genomics_Evidence_Unearths_New_Moonlighting_Roles_of_Outer_Ring_Coat_Nucleoporins/840452)
 [DOI](https://doi.org/10.1038/srep04655)
 
-# ••PathTrace /2017
+# ••PathTrace /2020
 ## - [Query](https://figshare.com/articles/dataset/PathTrace_Demo_Query_/5426710)
 ## - [Target](https://figshare.com/articles/dataset/PathTrace_Demo_Target_/5422852)
 ## - [Output](https://figshare.com/articles/dataset/PathTrace_Demo_BLAST_output_/5426725)
