@@ -15,14 +15,14 @@ datasets shared on figshare
 # ••[all-greek-to-me /2019](https://figshare.com/articles/dataset/Hypothesis_analysis_and_synthesis_it_s_all_Greek_to_me_/5493133)
 [DOI](https://doi.org/10.7554/elife.43514)
 
+# ••[wealth of nations /2020](https://figshare.com/articles/dataset/The_bioinformatics_wealth_of_nations/11728878)
+[DOI](https://doi.org/10.1093/bioinformatics/btaa132)
+
 # ••PathTrace /2020
 ## - [Query](https://figshare.com/articles/dataset/PathTrace_Demo_Query_/5426710)
 ## - [Target](https://figshare.com/articles/dataset/PathTrace_Demo_Target_/5422852)
 ## - [Output](https://figshare.com/articles/dataset/PathTrace_Demo_BLAST_output_/5426725)
 [DOI](https://doi.org/10.1099/mgen.0.000429)
-
-# ••[wealth of nations /2020](https://figshare.com/articles/dataset/The_bioinformatics_wealth_of_nations/11728878)
-[DOI](https://doi.org/10.1093/bioinformatics/btaa132)
 
 # ••[VRPs /2020](https://figshare.com/projects/VRP-vertebrate_ribosomal_proteins/83864)
 ## - [README](https://figshare.com/articles/journal_contribution/README/12600161)
