@@ -18,7 +18,7 @@ datasets shared on figshare
 # ••[wealth of nations /2020](https://figshare.com/articles/dataset/The_bioinformatics_wealth_of_nations/11728878)
 [DOI](https://doi.org/10.1093/bioinformatics/btaa132)
 
-# ••PathTrace /2020
+# ••[PathTrace](https://github.com/CGU-CERTH/PathTrace) /2020
 ## - [Query](https://figshare.com/articles/dataset/PathTrace_Demo_Query_/5426710)
 ## - [Target](https://figshare.com/articles/dataset/PathTrace_Demo_Target_/5422852)
 ## - [Output](https://figshare.com/articles/dataset/PathTrace_Demo_BLAST_output_/5426725)
