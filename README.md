@@ -38,3 +38,6 @@ datasets shared on figshare
 
 # ••[SBP1 evolution /2023](https://figshare.com/articles/dataset/Data_S_Evolutionary_Aspects_of_Selenium_Binding_Protein_1/22188193)
 [DOI](https://doi.org/10.1007/s00239-023-10105-4)
+
+# ••[Asymmetric divergence LUCA/2026](https://figshare.com/articles/dataset/LUCA-transcription_Please_see_README_file_for_details/31064905)
+[DOI] (https://doi.org/10.1016/j.biosystems.2026.105794)
