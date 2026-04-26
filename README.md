@@ -40,4 +40,4 @@ datasets shared on figshare
 [DOI](https://doi.org/10.1007/s00239-023-10105-4)
 
 # ••[Asymmetric divergence LUCA/2026](https://figshare.com/articles/dataset/LUCA-transcription_Please_see_README_file_for_details/31064905)
-[DOI] (https://doi.org/10.1016/j.biosystems.2026.105794)
+[DOI](https://doi.org/10.1016/j.biosystems.2026.105794)
